@@ -6,4 +6,4 @@
 * In the terminal run "npm install" to install all the dependencies.
 * After installation, run "npm start". The project will run on localhost:3000.
 
-Deployed link of the project: 
+Deployed link of the project: https://codediggerftaskc.netlify.app/
